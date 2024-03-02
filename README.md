@@ -1,8 +1,8 @@
-# Meu Portfolio 🎨
+# Meu Portfolio 🎨  (teste 01)
 
 Este é o repositório do meu portfolio pessoal, onde compartilho meu trabalho em design, animações e desenvolvimento web.
 
-## Cores Vibrantes 🌈
+## Cores Vibrantes 
 
 Utilizo uma paleta de cores vibrantes em todo o portfolio para criar uma experiência visualmente impactante. As cores foram selecionadas cuidadosamente para transmitir energia e criatividade.
 
